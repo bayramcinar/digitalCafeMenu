@@ -1,0 +1,94 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+    background: url(/cafeWeb/img/menu.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+}
+nav{
+    border-radius: 10px;
+}
+i, button{
+    color: #fff;
+}
+.navbar {
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    
+  }
+#sicak{
+    background: url(/cafeWeb/img/menu1.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-attachment: fixed;
+}
+
+#soguk{
+    background: url(/cafeWeb/img/menu2.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-attachment: fixed;
+}
+
+#yemekler{
+    background: url(/cafeWeb/img/menu3.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-attachment: fixed;
+}
+
+#tatli{
+    background: url(/cafeWeb/img/menu4.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-attachment: fixed;
+}
+section{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 300px;
+}
+h1{
+    padding-top: 50px;
+}
+.nav-link{
+    color: #D14D72;
+    font-size: 30px;
+    -webkit-text-stroke: 0.3px #fff;
+}
+.card-title, .card-text{
+    font-family: 'Lobster', cursive; 
+    letter-spacing: 3px;
+    text-align: center;
+}
+.display-4{
+    -webkit-text-stroke: 0.3px #fff;
+    text-stroke: 0.3px #fff;
+    font-size: 90px;
+    font-family: 'Lobster', cursive; 
+    color: #F6BA6F; 
+    letter-spacing: 3px;
+}
+button:hover{
+    background-color: #fff;
+    color: #F6BA6F;
+}
+h2{
+    padding: 25px;
+}
+.nav-item{
+    letter-spacing: 3px;
+
+}
